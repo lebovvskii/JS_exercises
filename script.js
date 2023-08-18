@@ -45,7 +45,6 @@ const avgRating = (products = []) => {
         result[i] = obj;
         console.log(result[i]);
     }
-    console.log(result)
     return result
 }
 
